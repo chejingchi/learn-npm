@@ -1,0 +1,22 @@
+{
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "description": "learn how to use npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chejingchi/learn-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "michaelche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chejingchi/learn-npm/issues"
+  },
+  "homepage": "https://github.com/chejingchi/learn-npm#readme"
+}

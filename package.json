@@ -4,7 +4,7 @@
   "description": "learn how to use npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/chejingchi/learn-npm/issues"
   },
-  "homepage": "https://github.com/chejingchi/learn-npm#readme"
+  "homepage": "https://github.com/chejingchi/learn-npm#readme",
+  "devDependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  }
 }

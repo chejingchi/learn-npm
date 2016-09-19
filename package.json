@@ -1,6 +1,6 @@
 {
   "name": "learn-npm-by-michael-che",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "learn how to use npm",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "@linclark/pkg": "^1.0.3",
-    "learn-npm-by-michael-che": "^1.0.0"
+    "learn-npm-by-michael-che": "^1.0.1"
   }
 }
